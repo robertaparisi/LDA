@@ -14,6 +14,6 @@ The updated file are the following:
   
  In a while I will add also the Web Application that I create for this NLP model
 
-Notebook viewer functions file : 
+Notebook viewer functions file : https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/myLDAfunct.ipynb
 
 Notebook viewer: https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/LDAbella.ipynb
