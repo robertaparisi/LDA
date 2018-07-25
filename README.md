@@ -7,4 +7,13 @@ I used pyspark because the dataset that i used was really big (159k articles). F
 I create also a visualization of the results with pyLDAvis, that shows at the same time (interactively) what words are important for a topic and in which topics is often used a word. 
 
 
+The updated file are the following: 
+  - myLDAfunctions.py that has inside all the functions that i created to run the model
+  - myLDArunfile.py that has inside the command that needs to be runned in order to have the results
+  
+  
+ In a while I will add also the Web Application that I create for this NLP model
+
+Notebook viewer functions file : 
+
 Notebook viewer: https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/LDAbella.ipynb
