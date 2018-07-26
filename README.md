@@ -9,13 +9,13 @@ I create also a visualization of the results with pyLDAvis, that shows at the sa
 
 The updated file are the following: 
   - myLDAfunctions.py that has inside all the functions that i created to run the model
-  - myLDArunfile.ipynb that has inside the command that needs to be runned in order to have the results
+  - myLDArunfileOLD.ipynb that has inside the command that needs to be runned in order to have the results
   
   
  In a while I will add also the Web Application that I create for this NLP model
 
 Notebook viewer functions file : https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/myLDAfunct.ipynb
 
-Notebook viewer run file: https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/myLDArunfile.ipynb
+Notebook viewer run file: https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/myLDArunfileOLD.ipynb
 
 Notebook viewer old version: https://nbviewer.jupyter.org/github/robertaparisi/LDA/blob/master/LDAbella.ipynb
